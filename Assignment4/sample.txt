@@ -1,0 +1,4 @@
+Reading file content:
+Line1: Welcome to file handling.
+Line2: This is sample text.
+Line3: It contains multiple lines of text.
